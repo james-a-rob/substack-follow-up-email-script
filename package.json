@@ -1,0 +1,18 @@
+{
+  "name": "newsletter-followup",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemailer": "^6.4.14",
+    "puppeteer": "^5.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
